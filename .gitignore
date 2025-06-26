@@ -1,8 +1,10 @@
 # this file is super simple! if you dont want it publish to github so the world can see what is in the file, such as api keys 
 # or passwords, just simply add the file name on a new line. thats it. then when you publish/commit to github it wont publish that fil
 
+# Files to ignore - add one filename per line
+# These files won't be published to GitHub
 
 test.php
 jeff.php
 fun.php
-jeff.php
+testing2.php
